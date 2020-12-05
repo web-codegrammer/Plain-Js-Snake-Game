@@ -7,6 +7,8 @@ Setup:
 
 - Run into your browser & enjoy the Game.
 
+- Just Use Arrow Keys to start the Game.
+
 
 ## License 
 
