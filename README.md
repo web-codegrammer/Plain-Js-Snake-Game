@@ -1,6 +1,6 @@
 # Plain-Js-Snake-Game
 
-A Simple Javascript based Snake Game developed using Plain browser JavaScript
+This is the code repostory of Simple Javascript based Snake Game developed using Plain browser JavaScript
 
 Setup:
 - Just ```Clone this code repoistory``` or ```download``` to your local machine
